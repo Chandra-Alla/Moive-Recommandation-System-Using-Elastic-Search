@@ -1,0 +1,9 @@
+chunkipy
+elasticsearch==8.12.1
+kaggle
+opendatasets==0.1.22
+pandas
+sentence-transformers
+nltk
+streamlit
+torch
